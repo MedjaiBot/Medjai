@@ -1,0 +1,3 @@
+coverage/
+webpack.*.js
+dist/
