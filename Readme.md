@@ -2,6 +2,7 @@
 ## Your open source modular chatbot for various streaming platforms and thirdparty integrations!
 
 [![Build Status](https://travis-ci.org/MedjaiBot/Medjai.svg?branch=develop)](https://travis-ci.org/MedjaiBot/Medjai)
+[![npm version](https://badge.fury.io/js/medjaibot.svg)](https://www.npmjs.com/package/medjaibot)
 
 ### Which features does MedjaiBot have?
 MedjaiBot provides you:
