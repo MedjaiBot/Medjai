@@ -1,3 +1,5 @@
 coverage/
 webpack.*.js
 dist/
+src/js/
+src/scss
