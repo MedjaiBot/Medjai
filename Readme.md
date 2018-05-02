@@ -1,6 +1,8 @@
 # MedjaiBot
 ## Your open source modular chatbot for various streaming platforms and thirdparty integrations!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MedjaiBot/Medjai.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/MedjaiBot/Medjai.svg?branch=develop)](https://travis-ci.org/MedjaiBot/Medjai)
 [![npm version](https://badge.fury.io/js/medjaibot.svg)](https://www.npmjs.com/package/medjaibot)
 
