@@ -10,6 +10,7 @@
 		"commit": "git-cz",
 		"test": "jest",
 		"test:dev": "jest --watch",
+		"lint": "eslint . src/**/*.tsx?",
 		"lint:fix": "eslint . --fix src/**/*.tsx?",
 		"semantic-release": "semantic-release",
 		"prod": "parcel build public/index.html",
