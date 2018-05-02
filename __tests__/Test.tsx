@@ -1,7 +1,7 @@
 import * as React from 'react';
 import renderer from 'react-test-renderer';
 import {v4} from 'uuid';
-import {App} from '../src/Components/App';
+import {App} from '../src/ts/Components/App';
  
 describe('General tests', () => {
     it('UUIDs should be 36 characters long', () => {
