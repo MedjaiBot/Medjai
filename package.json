@@ -13,8 +13,10 @@
 		"lint": "eslint . src/ts/**/*.tsx?",
 		"lint:fix": "eslint . --fix src/ts/**/*.tsx?",
 		"semantic-release": "semantic-release",
-		"prod": "parcel build public/index.html",
-		"dev": "parcel public/index.html"
+		"prod": "parcel build public/index.html --public-url ./",
+		"dev": "parcel public/index.html",
+		"electron:dev": "electron src/js/electron.dev.js",
+		"electron:prod": "electron src/js/electron.prod.js"
 	},
 	"config": {
 		"commitizen": {
