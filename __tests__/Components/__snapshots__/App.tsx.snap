@@ -2,8 +2,47 @@
 
 exports[`App component tests should match the snapshot 1`] = `
 <div>
-  <p>
-    Hello World!
-  </p>
+  <div
+    className="ui container"
+  >
+    <div
+      className="ui menu"
+    >
+      <div
+        className="item"
+        onClick={[Function]}
+      >
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Homepage
+        </a>
+      </div>
+      <div
+        className="item"
+        onClick={[Function]}
+      >
+        <a
+          href="/settings"
+          onClick={[Function]}
+        >
+          Settings
+        </a>
+      </div>
+      <div
+        className="item"
+        onClick={[Function]}
+        style="float: left;"
+      >
+        <a
+          href="/settings"
+          onClick={[Function]}
+        >
+          Settings
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 `;
