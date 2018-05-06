@@ -3,10 +3,10 @@
 exports[`App component tests should match the snapshot 1`] = `
 <div>
   <div
-    className="ui container"
+    className="ui fluid container"
   >
     <div
-      className="ui menu"
+      className="ui inverted menu"
     >
       <div
         className="item"
@@ -24,16 +24,15 @@ exports[`App component tests should match the snapshot 1`] = `
         onClick={[Function]}
       >
         <a
-          href="/settings"
+          href="/extensions"
           onClick={[Function]}
         >
-          Settings
+          Extensions
         </a>
       </div>
       <div
         className="item"
         onClick={[Function]}
-        style="float: left;"
       >
         <a
           href="/settings"
