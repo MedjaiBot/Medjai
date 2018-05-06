@@ -1,1 +1,24 @@
+.twitch-emote {
+  width: 25px !important;
+  height: 25px !important;
+}
 
+.ui.menu {
+  border-radius: 0;
+}
+
+.ui.inverted.segment {
+  .ui.feed > .event > .content {
+    .summary {
+      .date {
+        color: white !important;
+      }
+
+      color: white !important;
+    }
+
+    .meta .like {
+      color: white !important;
+    }
+  }
+}
