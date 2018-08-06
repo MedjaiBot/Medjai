@@ -79,7 +79,7 @@
     "travis-deploy-once": "^5.0.0",
     "ts-jest": "^23.0.0",
     "ts-loader": "^4.2.0",
-    "typescript-eslint-parser": "^17.0.0",
+    "typescript-eslint-parser": "^18.0.0",
     "typings": "^2.1.1",
     "uuid": "^3.2.1",
     "webpack": "^4.6.0",
