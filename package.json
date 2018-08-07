@@ -75,7 +75,7 @@
     "semantic-release": "^15.1.7",
     "sequelize": "^4.37.6",
     "sqlite3": "^4.0.0",
-    "style-loader": "^0.21.0",
+    "style-loader": "^0.22.0",
     "travis-deploy-once": "^5.0.0",
     "ts-jest": "^23.0.0",
     "ts-loader": "^4.2.0",
