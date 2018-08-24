@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "version": "lerna version --conventional-commits"
   },
   "private": true,
   "devDependencies": {
