@@ -1,0 +1,26 @@
+{
+  "name": "medjaibot",
+  "version": "0.0.1",
+  "author": "Yannick Fricke <yannickfricke@googlemail.com>",
+  "repository": "https://github.com/MedjaiBot/Medjai",
+  "license": "MIT",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "commit": "git-cz"
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/sqlite3": "^3.1.3",
+    "commitizen": "^2.10.1",
+    "cz-conventional-changelog": "^2.1.0",
+    "lerna": "^3.1.4",
+    "lerna-changelog": "^0.8.0",
+    "sqlite3": "^4.0.2",
+    "typescript": "^3.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
