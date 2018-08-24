@@ -1,0 +1,8 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "framework": "^0.0.0"
+  }
+}
