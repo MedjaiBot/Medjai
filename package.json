@@ -5,7 +5,7 @@
   "repository": "https://github.com/MedjaiBot/Medjai",
   "license": "MIT",
   "scripts": {
-    "bootstrap": "lerna bootstrap",
+    "bootstrap": "lerna bootstrap --hoist",
     "commit": "git-cz",
     "version": "lerna version --conventional-commits"
   },
