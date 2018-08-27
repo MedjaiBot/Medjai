@@ -7,7 +7,5 @@
     "publish": {
       "conventionalCommits": true
     }
-  },
-  "npmClient": "yarn",
-  "useWorkspaces": true
+  }
 }
